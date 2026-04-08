@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#050914",
+            "lang-select-color": "#FFC107",
+            "bg-light": "#0C1A30",
+            "welcome-bonus-bg": "#7A0C1C",
+            "top-games-hover-fg": "#00E5FF",
+            "main-bg": "#081224",
+            "text": "#D0DEF2",
+            "text-black": "#ffffff",
+            "table-head": "#162D59",
+            "text-head": "#ffffff",
+            "hero-title-text": "#FFFFFF",
+            "welcome-bonus-text": "#9AB2D6",
+            "yellow": "#B30B22",
+            "yellow-button": "#FFB800",
+            "button-text": "#ffffff",
+            "main-button-text": "#140800",
+            "border-color": "#D4AF37",
+            "casino-cards": "#15274A",
+            "bonus-border-head": "#FFB800",
+            "bonus-border": "#1B2A4A",
+            "providers-back": "#15274A",
+            "faq-label": "#15274A",
+            "bg-footer": "#020305",
+            "copyright": "#4D6285",
+            "starColor": "#FFD700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5889"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5890",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Hand of Midas 2 Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5891",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Hand of Midas 2"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Hand of Midas 2",
+                    "title": "Hand of Midas 2 — Play Slot Online | 8,000x Max Win",
+                    "description": "Play Hand of Midas 2 by Pragmatic Play — a high volatility online slot with 96.07% RTP, sticky wild multipliers up to 10x & 8,000x max win potential. Spin now!",
+                    "canonical": "hand-of-midas-2-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5892",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "hand-of-midas-2-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5893"
+                },
+                "hero": {
+                    "title": "Hand of Midas 2 — Golden Slot by Pragmatic Play",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5894",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5895",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Hand of Midas 2 by Pragmatic Play delivers high-volatility Greek mythology action with certified 96.07% RTP and 8,000x max win. Sticky wild multipliers and retriggerable free spins create explosive win potential on every spin. Here's why players choose this slot:",
+                    "items": [
+                        "96.07% RTP certified by independent auditors — fair & transparent gameplay",
+                        "Maximum win potential of 8,000x your stake — up to $1,920,000 per spin",
+                        "Wild Multipliers up to 10x with Sticky Wilds during Free Spins rounds",
+                        "Retriggerable Free Spins — up to 18 spins with no trigger limit",
+                        "Bonus Buy feature available at 100x bet for instant Free Spins access",
+                        "Developed by Pragmatic Play — award-winning certified iGaming provider"
+                    ],
+                    "advantagesAfterText": "Join thousands of players spinning the golden reels of Hand of Midas 2 daily. With RNG-certified fairness, high-volatility thrills, and a maximum payout of 8,000x, every spin could turn into pure gold.",
+                    "knowMore": "Know more",
+                    "appTitle": "Hand of Midas 2 App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5902",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Hand of Midas 2 App",
+                    "mobileGooglePlayImageTitle": "Hand of Midas 2 App",
+                    "mobileIosImageTitle": "Hand of Midas 2 App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Hand of Midas 2 Slot",
+                        "description1": "We present Hand of Midas 2, Pragmatic Play's acclaimed high-volatility video slot inspired by the legend of King Midas. Built on a 5x3 grid with 20 paylines, it offers certified 96.07% RTP and up to 8,000x max win for every player.",
+                        "items": [
+                            "Launched by Pragmatic Play with RNG-certified fair gameplay",
+                            "5x3 grid, 20 paylines, bets from $0.20 to $240 per spin",
+                            "Wild Multipliers up to 10x introduced in Free Spins mode",
+                            "Bonus Buy feature added for instant Free Spins access at 100x bet"
+                        ],
+                        "description2": "Hand of Midas 2 operates on a fully certified RNG engine audited to industry standards. The slot uses Pragmatic Play's licensed software framework, ensuring every spin outcome is random, transparent, and tamper-proof for all online players.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5903",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue enhancing the Hand of Midas 2 experience with new casino partnerships and wider availability. Discover sticky wilds, golden multipliers, and mythological thrills. Try our free demo or play for real money and touch the golden reels today!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Hand of Midas 2 Slot Features & Gameplay",
+                        "description": "<h2>Hand of Midas 2 Slot Features & Gameplay Guide<\/h2>\n\n<p>Hand of Midas 2 is a high-volatility video slot developed by Pragmatic Play, one of the most recognized and award-winning iGaming providers in the online casino industry. Built on a classic 5-reel, 3-row grid with 20 fixed paylines, this mythologically inspired online slot game invites players to enter the legendary world of King Midas — where everything touched turns to gold. With a certified RTP of 96.07%, a minimum bet of $0.20, a maximum bet of $240, and an extraordinary maximum win potential of 8,000x the total wager, Hand of Midas 2 delivers a premium slot experience for both casual spinners and high-rollers seeking explosive payouts. The game's hit frequency stands at 27.77%, meaning roughly one in four spins produces a win — a solid balance between action and volatility for online slot enthusiasts.<\/p>\n\n<h3>Base Game Mechanics: How the Reels Work<\/h3>\n\n<p>The Hand of Midas 2 slot plays on a straightforward 5x3 matrix, awarding wins left to right starting from the leftmost reel. The 20 paylines are fixed, meaning all lines are always active on every spin — no need to adjust paylines manually. This structure maximizes every spin's winning potential from the very first reel, a feature appreciated by players who prefer transparent, no-fuss slot mechanics. Bets range from a low of $0.20 per spin up to the high-roller cap of $240 per spin, giving every type of online casino player full flexibility to manage their bankroll according to their style. The visual design draws heavily from ancient Greek mythology, presenting golden symbols, ornate iconography of King Midas, and a rich atmospheric soundtrack that immerses players in the opulence of the mythological setting.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>5x3 Reel Grid:<\/strong> Classic five-reel, three-row layout with wins awarded left to right, providing a familiar and intuitive gaming structure for online slot players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>20 Fixed Paylines:<\/strong> All paylines are permanently active on every spin — no need to adjust bet lines, ensuring maximum coverage and consistent action throughout each gaming session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Flexible Bet Range:<\/strong> Stakes run from $0.20 minimum to $240 maximum per spin, accommodating budget players and high-rollers alike across all online casino platforms offering this title.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High Volatility Rating:<\/strong> Pragmatic Play rates this slot at maximum volatility — wins are less frequent but significantly larger when they do land, making patience and proper bankroll management essential strategies.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>27.77% Hit Frequency:<\/strong> Approximately 1 in 4 spins generates a winning combination in the base game, providing regular small wins that keep the gameplay engaging between bigger bonus triggers.<\/li>\n<\/ul>\n\n<h3>Wild Symbols and Multiplier Mechanics<\/h3>\n\n<p>The Wild symbol in Hand of Midas 2 is arguably the most important symbol in the entire game, and it plays a central role in both the base game and the Free Spins bonus round. Wild symbols substitute for all regular paying symbols on the reels, helping complete winning combinations across the 20 paylines. However, the truly exciting aspect of the Wild in this Pragmatic Play online slot is its multiplier mechanic — each Wild symbol carries a random multiplier value that is applied to any win it helps complete. These Wild multipliers can reach values of up to 10x the standard win amount, meaning a single well-placed Wild can dramatically amplify payouts during any given spin. During the base game, Wilds appear on all reels and bring their multiplier values with them on every occurrence.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wild Substitution:<\/strong> Wild symbols replace all standard symbols on the reels, completing partial winning combinations across all 20 active paylines for enhanced base game wins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wild Multipliers up to 10x:<\/strong> Each Wild carries a randomly assigned multiplier of up to 10x — when multiple Wild multipliers appear on the same payline, the values multiply together for compounding payout boosts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sticky Wilds in Free Spins:<\/strong> Once triggered, Wild symbols during the Free Spins round become sticky — they lock in place for the remainder of the bonus round, building a growing collection of active multiplier Wilds on the reels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Compounding Multiplier Effect:<\/strong> When two Wild multipliers land on the same winning payline, their values multiply together rather than adding — for example, a 5x Wild combined with a 4x Wild produces a 20x total multiplier on that line's win.<\/li>\n<\/ul>\n\n<h3>Free Spins Bonus Round: The Heart of the Game<\/h3>\n\n<p>The Free Spins feature in Hand of Midas 2 is triggered by landing 3, 4, or 5 Scatter symbols anywhere on the reels simultaneously during the base game. The number of Scatter symbols that trigger the feature determines the starting number of free spins awarded — the more Scatters, the more spins you receive to begin your bonus round. Once inside the Free Spins mode, the sticky Wild mechanics take full effect: every Wild that lands on the reels during free spins stays in position for the rest of the bonus, accumulating golden multiplier coverage across the grid. This mechanic means that the longer the Free Spins round lasts, the more Wilds are present, and the more explosive each subsequent spin becomes. The bonus round can be retriggered with no upper limit — landing 2 or more Scatter symbols during Free Spins adds additional spins to your total, potentially extending the bonus to a maximum of 18 free spins in a single session.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Trigger Requirement:<\/strong> Land 3, 4, or 5 Scatter symbols anywhere on the 5-reel grid simultaneously to activate the Free Spins bonus round from the base game.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sticky Wild Accumulation:<\/strong> Every Wild landing during Free Spins locks in place for the duration of the bonus, progressively filling the grid with active multiplier Wilds that enhance every subsequent spin's payout potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Retriggerable Without Limit:<\/strong> Landing 2 or more Scatter symbols during the active Free Spins round adds more spins to the total — this can be triggered repeatedly with no cap, allowing the bonus to extend up to 18 free spins maximum.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Maximum Win Path:<\/strong> The 8,000x maximum win is most realistically achieved during a fully loaded Free Spins round, with multiple sticky Wilds carrying high multiplier values simultaneously active across the reels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Probability Context:<\/strong> The maximum 8,000x win has a probability of approximately 1 in 4,702,222 spins — a rare but achievable milestone for dedicated slot players over extended sessions.<\/li>\n<\/ul>\n\n<h3>Hand of Midas 2 RTP & Volatility Breakdown<\/h3>\n\n<p>Understanding the Return to Player percentage and volatility rating is essential before wagering real money on any online slot, and Hand of Midas 2 offers complete transparency on both metrics. The standard RTP for this Pragmatic Play video slot is 96.07%, which is considered fair and competitive within the online slot market. This figure represents the theoretical long-term return to all players across millions of spins — for every $100 wagered, the slot is expected to return $96.07 on average over extended play. It is important to note that Pragmatic Play also makes available reduced RTP variants of this game — casinos may configure the slot at 95.05% or 94.06% RTP depending on their operator settings. The Bonus Buy feature carries a marginally adjusted RTP of 96.04%, effectively the same standard as the base game RTP.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ffb700;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Metric<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Value<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Notes<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>RTP (Standard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.07%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Best available version<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>RTP (Reduced)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">95.05% \/ 94.06%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Operator configured<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>RTP (Bonus Buy)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.04%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">When buying Free Spins<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Volatility<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High \/ Very High<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5\/5 Pragmatic scale<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Hit Frequency<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">27.77%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">~1 in 4 spins wins<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Max Win<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">8,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1 in 4,702,222 probability<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Min Bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Accessible for all players<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Max Bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$240<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High-roller friendly<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Bonus Buy Feature: Skip Straight to the Action<\/h3>\n\n<p>One of the most appealing features for experienced online slot players is the Bonus Buy option built into Hand of Midas 2 by Pragmatic Play. Rather than waiting through potentially hundreds of base game spins for a natural Free Spins trigger, the Bonus Buy feature allows players to purchase direct access to the Free Spins round at a cost of 100x the current total bet. At the minimum stake of $0.20, that means a Bonus Buy costs just $20 — while at the maximum bet of $240, the feature costs $24,000 to activate. When purchasing the Free Spins round through the Bonus Buy, Pragmatic Play guarantees that 4, 5, or 6 Bonus symbols will land randomly to initiate the feature — providing a statistically stronger starting position than a standard natural trigger from 3 Scatters. The Bonus Buy RTP is 96.04%, virtually identical to the standard 96.07%, making it a fair and transparent option for players who prefer immediate bonus access over extended base game play.<\/p>\n\n<h3>Is Hand of Midas 2 Right for You?<\/h3>\n\n<p>Hand of Midas 2 is specifically designed for players who enjoy high-stakes, high-reward slot experiences with a rich mythological theme. If you prefer frequent small wins and steady base game payouts, the high volatility nature of this online slot may not match your preferred playing style — but if you thrive on the excitement of building sticky Wild combinations and watching multipliers compound during an extended Free Spins run, this Pragmatic Play title delivers exactly that experience. The broad bet range from $0.20 to $240 ensures accessibility for all player types, and the transparent 96.07% RTP certified by independent auditors guarantees a fair gaming framework. Whether you're a casual player exploring Greek mythology slots for the first time or a seasoned high-roller chasing the legendary 8,000x maximum win, Hand of Midas 2 offers a compelling and well-crafted online slot adventure worth every spin.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "How to Play Hand of Midas 2 & Win",
+                        "description": "<h2>How to Play Hand of Midas 2 Online Slot & Maximize Your Wins<\/h2>\n\n<p>Playing Hand of Midas 2 online is straightforward, but understanding the game's mechanics, bonus features, and strategic bet management can significantly improve your overall experience with this high-volatility Pragmatic Play slot. The game is fully optimized for both desktop and mobile play, ensuring seamless performance across all devices — whether you're spinning on a laptop, tablet, or smartphone. The core objective is to land matching symbols across the 20 fixed paylines from left to right, with the Wild multiplier system and Free Spins bonus round providing the pathways to the game's most rewarding payouts. With a maximum potential of 8,000x your total stake and sticky Wild mechanics that build in power throughout the bonus round, every session with the Hand of Midas 2 slot carries genuine big-win potential for players who understand how the game operates.<\/p>\n\n<h3>Step-by-Step Guide: Starting Your First Spin<\/h3>\n\n<p>Getting started with Hand of Midas 2 requires no prior experience with Pragmatic Play titles — the interface is intuitive, clearly labeled, and designed for fast, accessible gameplay. Before placing your first real-money bet, we recommend trying the free demo version available at most online casinos offering this slot, which allows you to explore all features including Wild multipliers, Free Spins, and the Bonus Buy option without any financial risk. Once comfortable with the mechanics, transitioning to real-money play is simple and takes only a few steps.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 1 — Choose Your Stake:<\/strong> Use the bet selector to set your preferred wager between $0.20 and $240 per spin. For high-volatility slots like this, starting at a mid-range stake helps balance session length with win potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 2 — Review Paytable:<\/strong> Click the information icon to access the full paytable showing symbol values, Wild multiplier ranges, Scatter trigger requirements, and Bonus Buy cost for your selected bet level.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 3 — Spin the Reels:<\/strong> Hit the Spin button to begin — or activate Autoplay for a preset number of spins (typically 10, 25, 50, or 100) with optional stop conditions such as a single win exceeding a set amount.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 4 — Watch for Wilds:<\/strong> Wild symbols with multiplier values (up to 10x) can appear on any reel at any time. When multiple Wild multipliers land on the same payline, their values compound — a 3x and a 5x Wild on the same line produces a 15x total multiplier.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 5 — Trigger Free Spins:<\/strong> Landing 3, 4, or 5 Scatter symbols anywhere on the grid simultaneously triggers the Free Spins bonus round where sticky Wilds accumulate, building toward the 8,000x maximum win potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 6 — Consider Bonus Buy:<\/strong> If you want to skip base game variance and jump directly into Free Spins, use the Bonus Buy at 100x your current bet. This guarantees a Free Spins trigger with 4–6 Scatter symbols landing immediately.<\/li>\n<\/ul>\n\n<h3>Mobile Gaming: Hand of Midas 2 on Any Device<\/h3>\n\n<p>Pragmatic Play develops all its online slot titles with a mobile-first philosophy, and Hand of Midas 2 is no exception. The game runs flawlessly on iOS and Android smartphones and tablets through any mobile browser without requiring a dedicated app download. The 5x3 grid adapts perfectly to portrait and landscape screen orientations, maintaining full visual quality, smooth animations, and complete feature access regardless of device type. The touch-screen interface makes spinning, accessing the paytable, and using the Bonus Buy feature feel entirely natural on mobile. Whether you're playing at home on your desktop or spinning the golden reels on the go from your phone, Hand of Midas 2 delivers a consistently premium online slot experience powered by Pragmatic Play's certified HTML5 technology framework.<\/p>\n\n<h3>Symbol Values & Paytable Overview<\/h3>\n\n<p>Understanding symbol values in Hand of Midas 2 helps players identify the highest-value combinations and prioritize awareness of which symbols to watch for during base game play. The game uses a standard high-card symbol set for lower-value wins alongside thematic mythological symbols for the premium payouts. The golden King Midas-themed premium symbols deliver the most significant payouts on a single payline, especially when enhanced by Wild multipliers. Below is an overview of the game's pay structure for maximum 5-of-a-kind combinations at a reference bet level — actual values scale proportionally with your chosen stake and any Wild multiplier applied.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ffb700;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Pay (5-of-kind)<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>King Midas<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Premium<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Highest payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Golden Mask<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Premium<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Golden Chalice<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Premium<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Mid-high payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Golden Coin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Mid<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Mid payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>A \/ K<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Low<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Low payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Q \/ J \/ 10<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Low<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Lowest payout<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b101e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wild (x1–x10)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Wild\/Multiplier<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Substitutes + multiplies<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151c2f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Bonus Trigger<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">3+ triggers Free Spins<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Bankroll Management Tips for High-Volatility Play<\/h3>\n\n<p>Because Hand of Midas 2 carries a high volatility rating, managing your bankroll effectively is one of the most important strategies for enjoying extended sessions and maximizing your chances of landing a bonus round with significant win potential. High-volatility online slots are specifically designed to deliver larger wins less frequently, meaning short sessions at insufficient bankroll levels often end without triggering the game's most rewarding features. Experienced slot players generally recommend maintaining a session bankroll of at least 100x to 200x the chosen bet per spin when playing high-volatility games of this type — this buffer provides enough spin volume to realistically encounter multiple Free Spins triggers and experience the game's full win potential range.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Recommended Session Budget:<\/strong> Allocate 100–200x your chosen bet per session — at $1 per spin, a $100–$200 session budget provides sufficient spin volume for realistic Free Spins trigger opportunities.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Start with Demo Mode:<\/strong> Always explore the free demo version of Hand of Midas 2 first to understand Wild multiplier behavior, Scatter trigger frequency, and sticky Wild mechanics before committing real funds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Consideration:<\/strong> The 100x Bonus Buy is best suited for players with larger session budgets who prefer guaranteed bonus access over extended base game grinding — use it strategically rather than repeatedly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Set Win\/Loss Limits:<\/strong> Use the Autoplay feature's built-in stop conditions to set a maximum single win target and a maximum loss limit before beginning automated play, ensuring disciplined bankroll protection throughout your session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Responsible Gaming Tools:<\/strong> All reputable online casinos offering Hand of Midas 2 provide responsible gaming tools including deposit limits, session time reminders, and self-exclusion options — always play within your financial means and personal limits.<\/li>\n<\/ul>\n\n<h3>Hand of Midas 2 vs. Hand of Midas 1: What's New?<\/h3>\n\n<p>Hand of Midas 2 builds directly on the foundation established by the original Hand of Midas slot, retaining the Greek mythology theme and core Wild mechanic while introducing enhanced multiplier values and a more refined sticky Wild system during Free Spins. The original title established the formula of Wild multipliers and Midas-themed symbolism that players loved, while this sequel refines those mechanics and pushes the maximum win ceiling higher. The Bonus Buy option, enhanced Wild multiplier range up to 10x, and the retriggerable Free Spins with no upper limit represent meaningful evolutionary steps for fans of the original game. Both titles are available at online casinos powered by Pragmatic Play, giving players the option to compare the two versions and choose their preferred style of golden-touch gambling entertainment from one of the industry's most respected certified providers.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Hand of Midas 2 slot?",
+                            "answer": "The RTP of Hand of Midas 2 is 96.07% in its best standard version, certified by independent auditors. Pragmatic Play also offers 95.05% and 94.06% reduced variants — operators may configure any version. The Bonus Buy RTP is 96.04%, virtually identical to the standard rate."
+                        },
+                        {
+                            "title": "How do I trigger Free Spins in Hand of Midas 2?",
+                            "answer": "Land 3, 4, or 5 Scatter symbols anywhere on the reels simultaneously to trigger the Free Spins bonus round. During Free Spins, Wild symbols become sticky and stay on the reels, building multiplier coverage. Retriggering is unlimited — land 2+ Scatters during the bonus for additional spins up to 18 total."
+                        },
+                        {
+                            "title": "What is the maximum win in Hand of Midas 2?",
+                            "answer": "The maximum win in Hand of Midas 2 is 8,000x your total stake, developed by Pragmatic Play. At the max bet of $240, that represents a $1,920,000 potential payout. This ceiling is most achievable during a fully loaded Free Spins round with multiple sticky Wild multipliers active across the reels."
+                        },
+                        {
+                            "title": "How does the Bonus Buy feature work in this slot?",
+                            "answer": "The Bonus Buy feature costs 100x your current total bet and grants immediate access to the Free Spins round, bypassing base game play entirely. Pragmatic Play guarantees 4, 5, or 6 Bonus Scatter symbols land to start the feature. The Bonus Buy RTP is 96.04% — nearly identical to the standard game."
+                        },
+                        {
+                            "title": "Is Hand of Midas 2 available on mobile devices?",
+                            "answer": "Yes — Hand of Midas 2 is fully optimized for mobile play on iOS and Android devices via any modern mobile browser, with no app download required. The slot uses Pragmatic Play's HTML5 technology for seamless portrait and landscape play, delivering the full feature set on smartphones and tablets."
+                        },
+                        {
+                            "title": "What are Wild Multipliers in Hand of Midas 2?",
+                            "answer": "Wild Multipliers are special Wild symbols that carry a random multiplier value of up to 10x applied to any winning combination they help complete. During Free Spins, these Wilds become sticky and remain on the reels permanently. When two Wild multipliers appear on one payline, their values multiply together for compounding payout boosts."
+                        },
+                        {
+                            "title": "Who developed the Hand of Midas 2 slot game?",
+                            "answer": "Hand of Midas 2 was developed by Pragmatic Play, one of the world's leading certified iGaming software providers. The game was released in June 2024 as a sequel to the original Hand of Midas slot, featuring enhanced Wild multiplier mechanics and a refined Free Spins system on the same 5x3, 20-payline grid."
+                        },
+                        {
+                            "title": "Can I play Hand of Midas 2 for free in demo mode?",
+                            "answer": "Yes — most online casinos offering Hand of Midas 2 provide a free demo or practice mode allowing players to explore all features, including Free Spins and the Bonus Buy option, without real money risk. Demo play uses virtual credits and provides full access to the game's mechanics and bonus features."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

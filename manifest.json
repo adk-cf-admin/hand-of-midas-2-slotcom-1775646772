@@ -1,0 +1,19 @@
+{
+  "name": "Hand of Midas 2",
+  "short_name": "Hand of Midas 2",
+  "theme_color": "",
+  "background_color": "#050914",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775646320-d26901-r6941-game-logo-900x900-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
